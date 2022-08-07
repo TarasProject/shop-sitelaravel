@@ -1,0 +1,27 @@
+@font-face {
+	src: url(https://fonts.google.com/specimen/Thasadith);
+}
+/*COLOR ACTIVE ELEMENT MENU*/
+.active-1{
+	background-color: green !important;
+}
+/*FOOTER*/
+.text-muted {
+	background-color: azure;
+	padding: 20px 0;
+}
+/*STORES*/
+.flex-container {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin: 10px 0;
+}
+.flex-block {
+	padding: 50px;
+	background-color: azure;
+	font-size: 1em;
+	font-family: Thasadit;
+	border: 1px solid #1d68a7;
+	margin: 10px 0;
+}
